@@ -112,7 +112,9 @@
 - [Канал на YouTube](http://youtube.com/pnprpg);
 - [Ru.DungeonMaps](http://rudungeonmaps.tumblr.com/)
 
-## Проект Натальи Мельниковой по немецкой системе DSA (Das Schwarze Auge)
+## DSAmania | Блог об игре "Тёмное Око" 
+
+Проект Натальи Мельниковой по немецкой системе DSA (Das Schwarze Auge)
 
 - [DSAMania](http://www.dsamania.com/)
 - [паблик ВК](https://vk.com/dsamania) 
@@ -146,6 +148,10 @@
 - [Twitch channel](https://www.twitch.tv/noroleplaying)
 - [YouTube channel](https://www.youtube.com/c/NoRP)
 - [Паблик ВК](https://vk.com/noroleplaying)
+
+## Сообщество Adventurers League Russian
+- [дискорд-сервер сообщества](https://discord.gg/qSD3mmz)
+- [Список клубов, в которых играют по правилам D&D Adventurers League](https://adventurersleague.wordpress.com/clubs/)
 
 # Паблики ВК, чаты, каналы, Youtube и прочее
 ## Паблики ВКонтакте
