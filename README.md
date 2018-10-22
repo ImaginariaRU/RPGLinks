@@ -212,6 +212,10 @@
 
 - [«Темные болота»](https://vk.com/dark_swamps) - тяжеленный отечественный *W-хак в разработке
 
+# Инструменты 
+
+- [Генератор имён](http://rpg.wintersky.ru/namegen/)
+
 # Архивы
 
 - [RPG Awards](http://rpg-awards.ru/contest/index.html) - Сайт о ролевых конкурсах (в т.ч. Кашевар)
