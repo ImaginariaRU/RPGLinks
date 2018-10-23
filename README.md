@@ -96,6 +96,11 @@
 
 - [База ходов для Dungeon World](https://trello.com/b/q4Sn5baR)
 
+## Кориолис: Третий Горизонт
+
+- [фанатский чат по Кориолис: Третий Горизонт](https://t.me/coriolis_rpg)
+- [Паблик ВКонтакте](https://vk.com/coriolis_rpg)
+
 # Standalone-блоги
 
 - [Dr.Tentaculus](https://tentaculus.ru/) + [паблик ВК](https://vk.com/dr.tentaculus)
@@ -191,7 +196,6 @@
 ## Чаты в Telegram
 
 - [Старая школа настольных ролевых игр](https://t.me/joinchat/Br3egVIpflGzcg_ABbCovA)
-- [https://t.me/coriolis_rpg](фанатский чат по Кориолис: Третий Горизонт)
 
 ## Чаты в Skype
 
