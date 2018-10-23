@@ -191,6 +191,7 @@
 ## Чаты в Telegram
 
 - [Старая школа настольных ролевых игр](https://t.me/joinchat/Br3egVIpflGzcg_ABbCovA)
+- [https://t.me/coriolis_rpg](фанатский чат по Кориолис: Третий Горизонт)
 
 ## Чаты в Skype
 
