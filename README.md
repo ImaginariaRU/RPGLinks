@@ -29,6 +29,9 @@
 - [Санкт-Петербург] [Круговорот миров - Dungeons & Dragons](https://vk.com/dndworlds)
 - [Санкт-Петербург] [Чёрный Лес - Место приключений](https://vk.com/blackforrest)
 - [Томск] [Role & Roll](https://vk.com/roleandroll)
+- [Ярославль] [Настольные Ролевые Игры. Ярославль](https://vk.com/nri_yaroslavl)
+- [Ярославль] [Dungeons & Dragons в Ярославле](https://vk.com/dnd_yaroslavl)
+- [Ярославль] [ИГРИК: Клуб и Магазин настольных игр | Ярославль](https://vk.com/y_yar)
 
 ## Ролекон
 
