@@ -70,7 +70,6 @@
 - [Форум "Общество друзей Мюнхгаузена"](https://karlmunchausen.ru/)
 - [Паблик ВКонтакте](https://vk.com/studio101)
 - [Паблик в фейсбуке](https://www.facebook.com/studio101ru/)
-- [Чат в Telegram](https://t.me/makerpg)
 
 ## SaF Gang Design
 
@@ -199,6 +198,7 @@
 ## Чаты в Telegram
 
 - [Старая школа настольных ролевых игр](https://t.me/joinchat/Br3egVIpflGzcg_ABbCovA)
+- [Лаборатория ролевых игр от Студии 101](https://t.me/makerpg)
 
 ## Чаты в Skype
 
