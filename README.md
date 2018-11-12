@@ -17,7 +17,7 @@
 - [Екатеринбург] [Таверна Игр-ек Екатеринбург](https://vk.com/taverna_y)
 - [Калуга] [Ролевая игротека](https://vk.com/elysium40rpg)
 - [Королёв] [Спящая Мантикора](https://vk.com/sleepingmanticora)
-- [Красноярск] [Настольные ролевые игры | ХЦ «Дайсвилль»](https://vk.com/dicevilleplay)
+- [Красноярск] [Настольные ролевые игры &#124; ХЦ «Дайсвилль»](https://vk.com/dicevilleplay)
 - [Нижний Новгород] [20Граней Настольные игры D&D MtG](https://vk.com/20graney)
 - [Новосибирск] [Башня мага](https://vk.com/wizardstower)
 - [Омск] [Подземелье и дракон — настольные игры в Омске](https://vk.com/podzemelyedrakon)
