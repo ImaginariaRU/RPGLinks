@@ -31,7 +31,7 @@
 - [Томск] [Role & Roll](https://vk.com/roleandroll)
 - [Ярославль] [Настольные Ролевые Игры. Ярославль](https://vk.com/nri_yaroslavl)
 - [Ярославль] [Dungeons & Dragons в Ярославле](https://vk.com/dnd_yaroslavl)
-- [Ярославль] [ИГРИК: Клуб и Магазин настольных игр | Ярославль](https://vk.com/y_yar)
+- [Ярославль] [ИГРИК: Клуб и Магазин настольных игр - Ярославль](https://vk.com/y_yar)
 
 ## Ролекон
 
@@ -206,7 +206,7 @@
 
 # Авторские сеттинги
 
-- [Domus et Animae (DeA) || Нудмер: город-ключ](https://vk.com/domusetanimae)
+- [Domus et Animae (DeA) -- Нудмер: город-ключ](https://vk.com/domusetanimae)
 - [Алая Буря](https://vk.com/scarlet_storm)
 - [Город Парового Солнца](https://vk.com/steamsun)
 - [Карнавал в мире снов](https://vk.com/dreamscapecarnival)
@@ -227,7 +227,7 @@
 # Архивы
 
 - [RPG Awards](http://rpg-awards.ru/contest/index.html) - Сайт о ролевых конкурсах (в т.ч. Кашевар)
-- [Архивы кашевара на сайте Студии 101](https://studio101.ru/archive/rpg-kashevar/) - более актуальная версия (но несимпатичный интерфейс, на 23 октября 2018 года)
+- [Архивы кашевара на сайте Студии 101](https://studio101.ru/archive/rpg-kashevar/) - более актуальная версия (но несимпатичный интерфейс, на 23 октября 2018 года), [Она же, в вомбачьем архиве](http://trpg.storage.wintersky.me/Studio_101_Archives/rpg-kashevar/)
 - [Вомбачьи архивы](http://trpg.storage.wintersky.me/) - в том числе спасенное с RPOD
 
 # Прочие ресурсы
