@@ -103,6 +103,10 @@
 - [Фанатский чат по Кориолис: Третий Горизонт](https://t.me/coriolis_rpg)
 - [Паблик ВКонтакте](https://vk.com/coriolis_rpg)
 
+## Godbound
+
+- [Сообщество, посвященное переводу и обсуждению настольной ролевой игры #Godbound](https://vk.com/godbound)
+
 # Standalone-блоги
 
 - [Dr.Tentaculus](https://tentaculus.ru/) + [паблик ВК](https://vk.com/dr.tentaculus)
