@@ -57,6 +57,7 @@
 - [Форум "Мир ролевых игр"](https://rpg-world.org/index.php?action=forum)
 
 # Издательства
+
 ## Indigo Games
 
 - [Сайт и магазин](http://indigogames.ru/)
@@ -68,19 +69,22 @@
 
 - [Интернет-магазин Студии](https://studio101.ru/)
 - [Форум "Общество друзей Мюнхгаузена"](https://karlmunchausen.ru/)
-- [Паблик ВКонтакте](https://vk.com/studio101)
-- [Паблик в фейсбуке](https://www.facebook.com/studio101ru/)
+- [Паблик ВКонтакте](https://vk.com/studio101), [Паблик в фейсбуке](https://www.facebook.com/studio101ru/)
 
 ## SaF Gang Design
 
 - [SaF Gang Design](https://vk.com/safgang) Паблик ВК 
 
-# Тематические ресурсы РФ
+# Тематические ресурсы
 
 ## D&D
 
-- Паблик ВК [D&D Adventurers League в России](https://vk.com/dnd_league) + [телеграм-канал](https://t.me/joinchat/DLHhDBJufNYqWJrluObOiw) 
-- [Dungeons & Dragons](https://vk.com/dnd_group) - паблик ВК
+- D&D Adventurers League в России : [Паблик ВК](https://vk.com/dnd_league) + [телеграм-канал](https://t.me/joinchat/DLHhDBJufNYqWJrluObOiw)
+- Телеграм-канал [D&D and you](https://t.me/dndandyou)
+- Паблик ВК [Dungeons & Dragons](https://vk.com/dnd_group)
+
+## D&D Hardcodex
+
 - [Карты заклинаний для DnD 5ed](http://hardcodex.ru/)
 - [Карты монстров для DnD 5ed](http://hardcodex.ru/monsters/)
 
@@ -100,8 +104,7 @@
 
 ## Кориолис: Третий Горизонт
 
-- [Фанатский чат по Кориолис: Третий Горизонт](https://t.me/coriolis_rpg)
-- [Паблик ВКонтакте](https://vk.com/coriolis_rpg)
+- [Фанатский чат по Кориолис: Третий Горизонт](https://t.me/coriolis_rpg), [Паблик ВКонтакте](https://vk.com/coriolis_rpg)
 
 ## Godbound
 
@@ -110,8 +113,8 @@
 # Standalone-блоги
 
 - [Dr.Tentaculus](https://tentaculus.ru/) + [паблик ВК](https://vk.com/dr.tentaculus)
-- [Ролевой подвал](https://wunderwaffla.wordpress.com/) + [паблик](https://vk.com/rpgbasement)
-- [Штормовая Башня](http://stormtower.ru/) + [паблик](https://vk.com/stormtower)
+- [Ролевой подвал](https://wunderwaffla.wordpress.com/) + [паблик ВК](https://vk.com/rpgbasement)
+- [Штормовая Башня](http://stormtower.ru/) + [паблик ВК](https://vk.com/stormtower)
 
 ## Eternal Order
 
@@ -134,17 +137,17 @@
 ## Восточные Земли (OSR)
 
 - [Блог](http://eastern-lands.blogspot.ru/)
-- [Паблик Вконтакте](https://vk.com/easternlands)
+- [Паблик Вконтакте](https://vk.com/easternlands) + [Discord-сервер](https://discord.gg/wBSPRWv)
 - [YouTube-канал](https://www.youtube.com/channel/UCm2-SZcvG_YzOWdcUZrI38Q)
-- [Discord-сервер](https://discord.gg/wBSPRWv)
 
 ## Locked Room (Сыщик)
 
 - [Запертая комната](https://vk.com/lockedroom_rpg) 
-- [сайт](http://lockedroom.ru/) 
+- [Сайт](http://lockedroom.ru/)
 - Телеграм-канал [Детективные ролевые игры](https://t.me/lockedroom)
 
 # Сообщества
+
 ## Сообщество "Башня мага" (Новосибирск)
 
 - [Паблик ВК](https://vk.com/wizardstower)
@@ -171,6 +174,7 @@
 - [Инстаграм](https://www.instagram.com/vecherniye_kosti/), [Твиттер](https://twitter.com/vecherniyekosti)
 
 # Паблики ВК, чаты, каналы, Youtube и прочее
+
 ## Паблики ВКонтакте
 
 - [Doing It Right](https://vk.com/rpgright)
@@ -237,7 +241,7 @@
 # Архивы
 
 - [RPG Awards](http://rpg-awards.ru/contest/index.html) - Сайт о ролевых конкурсах (в т.ч. Кашевар)
-- [Архивы кашевара на сайте Студии 101](https://studio101.ru/archive/rpg-kashevar/) - более актуальная версия (но несимпатичный интерфейс, на 23 октября 2018 года), [Она же, в вомбачьем архиве](http://trpg.storage.wintersky.me/Studio_101_Archives/rpg-kashevar/)
+- [Архивы кашевара на сайте Студии 101](https://studio101.ru/archive/rpg-kashevar/), [Они же, в вомбачьем архиве](http://trpg.storage.wintersky.me/Studio_101_Archives/rpg-kashevar/)
 - [Вомбачьи архивы](http://trpg.storage.wintersky.me/) - в том числе спасенное с RPOD
 
 # Прочие ресурсы
@@ -245,4 +249,5 @@
 Прочие ресурсы, к НРИ, возможно, отношения не имеющие, но для мастера — полезные
 
 - [posmotre.li](https://posmotre.li/) - Энциклопедия вымышленных миров, неординарных персонажей и всего, что с этим связано
+
 ![](https://wintersky.me/ip_stat.php)
