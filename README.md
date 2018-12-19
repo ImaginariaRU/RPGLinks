@@ -164,6 +164,12 @@
 - [дискорд-сервер сообщества](https://discord.gg/qSD3mmz)
 - [Список клубов, в которых играют по правилам D&D Adventurers League](https://adventurersleague.wordpress.com/clubs/)
 
+## Сообщество Вечерние кости
+- [Паблик ВКонтакте](https://vk.com/vecherniyekosti)
+- [Twitch-канал](https://www.twitch.tv/vecherniyekosti), [Youtube-канал](https://www.youtube.com/channel/UCETKVT-Uj-gAqdSTd2YNaMg)
+- [Телеграм-канал](https://t.me/vecherniyekosti), [Дискорд-канал "Костяшки"](https://discord.gg/3cepcNA)
+- [Инстаграм](https://www.instagram.com/vecherniye_kosti/), [Твиттер](https://twitter.com/vecherniyekosti)
+
 # Паблики ВК, чаты, каналы, Youtube и прочее
 ## Паблики ВКонтакте
 
