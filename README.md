@@ -113,7 +113,7 @@
 # Standalone-блоги
 
 - [Dr.Tentaculus](https://tentaculus.ru/) + [паблик ВК](https://vk.com/dr.tentaculus)
-- [Ролевой подвал](https://wunderwaffla.wordpress.com/) + [паблик ВК](https://vk.com/rpgbasement)
+- [Ролевой подвал](https://rpgbasement.xyz/) + [паблик ВК](https://vk.com/rpgbasement) + [канал Telegram](https://t.me/rpgbasement)
 - [Штормовая Башня](http://stormtower.ru/) + [паблик ВК](https://vk.com/stormtower)
 
 ## Eternal Order
@@ -207,6 +207,7 @@
 - [Powered by the Apocalypse](https://t.me/PoweredByTheApocalypse)
 - [Неумелый гекскроул](https://t.me/awkward_hexcrawl)
 - [Новости как сюжеты для НРИ](https://t.me/plothook)
+- [Чердак D4](https://t.me/d4loft)
 - [Sn@rl5, Отчеты об играх, ролевые новости, безумные идеи](https://t.me/snarl5)  
 
 ## Чаты в Telegram
