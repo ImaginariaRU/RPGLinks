@@ -102,6 +102,9 @@
 
 - [База ходов для Dungeon World](https://trello.com/b/q4Sn5baR)
 
+## Savage World 
+- [Чат в Telegram: Savage Worlds/Дневник авантюриста](https://t.me/savageworlds)
+
 ## Кориолис: Третий Горизонт
 
 - [Фанатский чат по Кориолис: Третий Горизонт](https://t.me/coriolis_rpg), [Паблик ВКонтакте](https://vk.com/coriolis_rpg)
