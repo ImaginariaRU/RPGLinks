@@ -77,6 +77,8 @@
 
 # Тематические ресурсы
 
+Паблики, каналы, сайты, блоги
+
 ## D&D
 
 - D&D Adventurers League в России : [Паблик ВК](https://vk.com/dnd_league) + [телеграм-канал](https://t.me/joinchat/DLHhDBJufNYqWJrluObOiw)
@@ -110,10 +112,14 @@
 - [Фанатский чат по Кориолис: Третий Горизонт](https://t.me/coriolis_rpg), [Паблик ВКонтакте](https://vk.com/coriolis_rpg)
 
 ## Godbound
-
 - [Сообщество, посвященное переводу и обсуждению настольной ролевой игры #Godbound](https://vk.com/godbound)
 
-# Standalone-блоги
+## GURPS
+
+- [Телеграм-группа для фанатов и любителей GURPS (Generic Universal RolePlaying System)](https://t.me/gurps_fangroup)
+- [GURPS](https://vk.com/gurpsvk)
+
+# Standalone-ресурсы
 
 - [Dr.Tentaculus](https://tentaculus.ru/) + [паблик ВК](https://vk.com/dr.tentaculus)
 - [Ролевой подвал](https://rpgbasement.xyz/) + [паблик ВК](https://vk.com/rpgbasement) + [канал Telegram](https://t.me/rpgbasement)
@@ -183,7 +189,6 @@
 - [Doing It Right](https://vk.com/rpgright)
 - [Making It Right](https://vk.com/miright)
 - [Fantasy World Problems](https://vk.com/fantasyworldproblems) + [канал на YouTube](https://www.youtube.com/channel/UCBkgEsFMq8ZcZQxv4adNeTQ)
-- [GURPS](https://vk.com/gurpsvk)
 - [Music for R.P.G.](https://vk.com/public85132919).
 - [Ворнхеймский синдром](https://vk.com/osr_syndrome)
 - [Настольные ролевые игры](https://vk.com/tabletop_rpg) + [Ссылки на книги, выложенные в группе](https://vk.com/wall-4361272_3099) 
@@ -256,4 +261,3 @@
 
 - [posmotre.li](https://posmotre.li/) - Энциклопедия вымышленных миров, неординарных персонажей и всего, что с этим связано
 
-![](https://wintersky.me/ip_stat.php)
