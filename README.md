@@ -119,6 +119,15 @@
 - [Телеграм-группа для фанатов и любителей GURPS (Generic Universal RolePlaying System)](https://t.me/gurps_fangroup)
 - [GURPS](https://vk.com/gurpsvk)
 
+## Blades in the Dark - Клинки во тьме
+
+Лезвия во Мраке. Режики в Тумане. Мечи в Ночи. Ножики в Потёмках. Бритвы без Света. Вечерние Заточки. Blades in the Dark (и, в частности, русское издание оных).
+
+- [Телеграм-канал](https://t.me/bitd_ru)
+- [Группа в ВК](https://vk.com/blade_in_the_darkness)
+- [Doskvol News (twitter)][https://twitter.com/doskvolnews]
+
+
 # Standalone-ресурсы
 
 - [Dr.Tentaculus](https://tentaculus.ru/) + [паблик ВК](https://vk.com/dr.tentaculus)
@@ -195,6 +204,7 @@
 - [Приют - Специально организованные правополушарные коммуникативные игры](https://vk.com/rpgasylum)
 - [Страницы отвращения](https://vk.com/club69115050)
 - [Хроники героев](https://vk.com/heros_chr) + [канал в Telergam](https://t.me/snarl5)
+- [Чердак d4](https://t.me/d4loft)
 
 ### Санкт-Петербург
 
