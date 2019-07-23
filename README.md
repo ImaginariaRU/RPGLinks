@@ -40,6 +40,7 @@
 - [Паблик клуба "Локация";](https://vk.com/rolecon_location)
 - [Чат конвента в Telegram](http://telegram.me/rolecon)
 - [Чат клуба "Локация" в Telegram](http://telegram.me/locationclub)
+- [Драконоборец — новостной канал Ролекон-Фанчата](https://t.me/drachenschlager)
 
 # Новостные сайты
 
