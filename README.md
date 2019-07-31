@@ -169,10 +169,7 @@
 
 ## Сообщество "Башня мага" (Новосибирск)
 
-- [Паблик ВК](https://vk.com/wizardstower)
-- [Чат в ВК](https://vk.me/join/AAAAADfOqRr34VC6riSwpWo0)
-- [Чат в телеграм](https://vk.me/join/AAAAADfOqRr34VC6riSwpWo0)
-- [Телеграм-канал анонсов](https://t.me/wizadsnews)
+- [Паблик ВК](https://vk.com/tower)
 
 ## Сообщество "No Roleplaying"
 
