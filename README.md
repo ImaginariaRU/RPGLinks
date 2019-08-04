@@ -128,6 +128,11 @@
 - [Группа в ВК](https://vk.com/blade_in_the_darkness)
 - [Doskvol News (twitter)][https://twitter.com/doskvolnews]
 
+## Warhammer Fantasy RolePlay
+
+- [Официальный публичный чат телеграм](https://t.me/whfrp4ru)
+- [Страница игры](https://warhammer.me)
+- [Официальный форум локализации](https://karlmunchausen.ru/viewforum.php?f=43)
 
 # Standalone-ресурсы
 
