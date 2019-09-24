@@ -32,6 +32,7 @@
 - [Ярославль] [Настольные Ролевые Игры](https://vk.com/nri_yaroslavl)
 - [Ярославль] [Dungeons & Dragons в Ярославле](https://vk.com/dnd_yaroslavl)
 - [Ярославль] [ИГРИК: Клуб и Магазин настольных игр](https://vk.com/y_yar)
+- [Ярославль] [Клуб НРИ "МИФ"](https://vk.com/club_nri)
 
 ## Ролекон
 
