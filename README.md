@@ -15,6 +15,7 @@
 - [Екатеринбург] [Ролекториум](http://vk.com/rolectorium_ekb)
 - [Екатеринбург] [РРИкон](http://vk.com/rricon)
 - [Екатеринбург] [Таверна Игр-ек Екатеринбург](https://vk.com/taverna_y)
+- [Казань] [ROLLIN || НРИ || КАЗАНЬ](https://vk.com/rollin_die) + [канал](https://t.me/rollin_die)
 - [Калуга] [Ролевая игротека](https://vk.com/elysium40rpg)
 - [Королёв] [Спящая Мантикора](https://vk.com/sleepingmanticora)
 - [Красноярск] [Настольные ролевые игры - ХЦ «Дайсвилль»](https://vk.com/dicevilleplay)
