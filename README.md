@@ -97,8 +97,7 @@
 
 - [Паблик ВКонтакте](https://vk.com/pathfinder_rpg)
 - [Любительские переводы Pathfinder](https://vk.com/pathfinderrus)
-- [Чат в Telegram по Pathfinder](https://telegram.me/pathfinder_ru)
-- [Чат в Telegram по Starfinder](https://telegram.me/starfinder_ru)
+- Ссылки на телеграм-чаты удалены, администраторы недовольны нашествием ботов.
 - [Канал в Telegram с объявлениями о наборе игр](https://telegram.me/pathfinder_radar)
 - [Канал в Telegram с новостями по плейтесту Pathfinder v2](https://telegram.me/pathfinderV2)
 - [Pathfinder на территории Украины](https://t.me/pathfinder_ua)
