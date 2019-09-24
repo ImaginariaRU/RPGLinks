@@ -275,3 +275,5 @@
 
 - [posmotre.li](https://posmotre.li/) - Энциклопедия вымышленных миров, неординарных персонажей и всего, что с этим связано
 
+<hr>
+Как сюда добавиться? Проще всего через [pull request или issues на гитхабе](https://github.com/ImaginariaRU/RPGLinks/issues)
