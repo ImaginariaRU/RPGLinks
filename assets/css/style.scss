@@ -10,6 +10,7 @@ a[href*='vk.com']:before {
     width: 16px;
     height: 16px;
     padding-left: 2px;
+    vertical-align: sub;
 }
 
 a[href*='t.me']:before {
@@ -19,4 +20,5 @@ a[href*='t.me']:before {
   width: 16px;
   height: 16px;
   padding-left: 2px;
+  vertical-align: sub;
 }
