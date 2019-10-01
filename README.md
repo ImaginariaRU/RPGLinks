@@ -56,7 +56,7 @@
 # Форумы, вики и крупные проекты
 
 - [Ролевая социальная сеть "Имажинария"](https://imaginaria.ru/)
-- [Ролевая энциклопедия](http://ru.rpg.wikia.com/)
+- [Ролевикипедия](http://rpg.fandom.com/ru/)
 - [Форум "Мир ролевых игр"](https://rpg-world.org/index.php?action=forum)
 
 # Издательства
@@ -140,6 +140,7 @@
 - [Dr.Tentaculus](https://tentaculus.ru/) + [паблик ВК](https://vk.com/dr.tentaculus)
 - [Ролевой подвал](https://rpgbasement.xyz/) + [паблик ВК](https://vk.com/rpgbasement) + [канал Telegram](https://t.me/rpgbasement)
 - [Штормовая Башня](http://stormtower.ru/) + [паблик ВК](https://vk.com/stormtower)
+- [Radaghast Kary](http://radaghast.ru/) + [YouTube](https://www.youtube.com/channel/UCoHHfW54wa4S_LicqRq5s_g/videos) + [инста](https://www.instagram.com/radaghast.kary/) + [телега](https://t.me/radaghastkary)
 
 ## Eternal Order
 
