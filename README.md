@@ -40,8 +40,8 @@
 - [Сайт конвента и клуба "Локация"](http://rolecon.ru/)
 - [Паблик ВКонтакте](https://vk.com/rolecon)
 - [Паблик клуба "Локация";](https://vk.com/rolecon_location)
-- [Чат конвента в Telegram](http://telegram.me/rolecon)
-- [Чат клуба "Локация" в Telegram](http://telegram.me/locationclub)
+- [Чат клуба "Локация"](http://telegram.me/locationclub)
+- [Фан-чат](http://telegram.me/rolecon)
 - [Драконоборец — новостной канал Ролекон-Фанчата](https://t.me/drachenschlager)
 
 # Новостные сайты
@@ -51,7 +51,7 @@
 ## RPG News Russian
 
 - [Сайт "Дракончика"](http://rpg-news.ru/)
-- [Паблик ВКонтакте](https://vk.com/rpg_news_russian)
+- [Паблик](https://vk.com/rpg_news_russian)
 
 # Форумы, вики и крупные проекты
 
@@ -64,19 +64,17 @@
 ## Indigo Games
 
 - [Сайт и магазин](http://indigogames.ru/)
-- [Паблик ВКонтакте](https://vk.com/indigogames)
-- [Паблик ВКонтакте по Fate Core](https://vk.com/fatecore)
-- [Чат в Telegram](https://t.me/fatecore)
+- [Паблик](https://vk.com/indigogames), [Паблик по Fate Core](https://vk.com/fatecore), [Чат](https://t.me/fatecore)
 
 ## Studio 101
 
 - [Интернет-магазин Студии](https://studio101.ru/)
 - [Форум "Общество друзей Мюнхгаузена"](https://karlmunchausen.ru/)
-- [Паблик ВКонтакте](https://vk.com/studio101), [Паблик в фейсбуке](https://www.facebook.com/studio101ru/)
+- [Паблик](https://vk.com/studio101), [Паблик в фейсбуке](https://www.facebook.com/studio101ru/)
 
 ## SaF Gang Design
 
-- [SaF Gang Design](https://vk.com/safgang) Паблик ВК 
+- [SaF Gang Design](https://vk.com/safgang)
 
 # Тематические ресурсы
 
@@ -84,9 +82,9 @@
 
 ## D&D
 
-- D&D Adventurers League в России : [Паблик ВК](https://vk.com/dnd_league) + [телеграм-канал](https://t.me/joinchat/DLHhDBJufNYqWJrluObOiw)
-- Телеграм-канал [D&D and you](https://t.me/dndandyou)
-- Паблик ВК [Dungeons & Dragons](https://vk.com/dnd_group)
+- D&D Adventurers League в России : [Паблик](https://vk.com/dnd_league) + [чат](https://t.me/joinchat/DLHhDBJufNYqWJrluObOiw)
+- [D&D and you](https://t.me/dndandyou)
+- [Паблик Dungeons & Dragons](https://vk.com/dnd_group)
 
 ## D&D Hardcodex
 
@@ -95,11 +93,11 @@
 
 ## Pathfinder
 
-- [Паблик ВКонтакте](https://vk.com/pathfinder_rpg)
+- [Паблик](https://vk.com/pathfinder_rpg)
 - [Любительские переводы Pathfinder](https://vk.com/pathfinderrus)
 - Ссылки на телеграм-чаты удалены, администраторы недовольны нашествием ботов.
-- [Канал в Telegram с объявлениями о наборе игр](https://telegram.me/pathfinder_radar)
-- [Канал в Telegram с новостями по плейтесту Pathfinder v2](https://telegram.me/pathfinderV2)
+- [Канал с объявлениями о наборе игр](https://telegram.me/pathfinder_radar)
+- [Канал с новостями по плейтесту Pathfinder v2](https://telegram.me/pathfinderV2)
 - [Pathfinder на территории Украины](https://t.me/pathfinder_ua)
 
 ## Dungeon World
@@ -107,44 +105,40 @@
 - [База ходов для Dungeon World](https://trello.com/b/q4Sn5baR)
 
 ## Savage World 
-- [Чат в Telegram: Savage Worlds/Дневник авантюриста](https://t.me/savageworlds)
+- [Чат: Savage Worlds/Дневник авантюриста](https://t.me/savageworlds)
 
 ## Кориолис: Третий Горизонт
 
-- [Фанатский чат по Кориолис: Третий Горизонт](https://t.me/coriolis_rpg), [Паблик ВКонтакте](https://vk.com/coriolis_rpg)
+- [Фанатский чат по Кориолис: Третий Горизонт](https://t.me/coriolis_rpg), [Паблик](https://vk.com/coriolis_rpg)
 
 ## Godbound
-- [Сообщество, посвященное переводу и обсуждению настольной ролевой игры #Godbound](https://vk.com/godbound)
+- [Сообщество, посвященное переводу и обсуждению настольной ролевой игры Godbound](https://vk.com/godbound)
 
 ## GURPS
 
-- [Телеграм-группа для фанатов и любителей GURPS (Generic Universal RolePlaying System)](https://t.me/gurps_fangroup)
-- [GURPS](https://vk.com/gurpsvk)
+- [Группа для фанатов и любителей GURPS (Generic Universal RolePlaying System)](https://t.me/gurps_fangroup)
+- [Паблик GURPS](https://vk.com/gurpsvk)
 
 ## Blades in the Dark - Клинки во тьме
 
-Лезвия во Мраке. Режики в Тумане. Мечи в Ночи. Ножики в Потёмках. Бритвы без Света. Вечерние Заточки. Blades in the Dark (и, в частности, русское издание оных).
-
-- [Телеграм-канал](https://t.me/bitd_ru)
-- [Группа в ВК](https://vk.com/blade_in_the_darkness)
-- [Doskvol News (twitter)][https://twitter.com/doskvolnews]
+- [Чат](https://t.me/bitd_ru), [Группа в ВК](https://vk.com/blade_in_the_darkness), [Doskvol News (twitter)][https://twitter.com/doskvolnews]
 
 ## Warhammer Fantasy RolePlay
 
-- [Официальный публичный чат телеграм](https://t.me/whfrp4ru)
+- [Официальный чат](https://t.me/whfrp4ru)
 - [Страница игры](https://warhammer.me)
 - [Официальный форум локализации](https://karlmunchausen.ru/viewforum.php?f=43)
 
 # Standalone-ресурсы
 
-- [Dr.Tentaculus](https://tentaculus.ru/) + [паблик ВК](https://vk.com/dr.tentaculus)
-- [Ролевой подвал](https://rpgbasement.xyz/) + [паблик ВК](https://vk.com/rpgbasement) + [канал Telegram](https://t.me/rpgbasement)
-- [Штормовая Башня](http://stormtower.ru/) + [паблик ВК](https://vk.com/stormtower)
-- [Radaghast Kary](http://radaghast.ru/) + [YouTube](https://www.youtube.com/channel/UCoHHfW54wa4S_LicqRq5s_g/videos) + [инста](https://www.instagram.com/radaghast.kary/) + [телега](https://t.me/radaghastkary)
+- [Dr.Tentaculus](https://tentaculus.ru/) + [паблик](https://vk.com/dr.tentaculus)
+- [Ролевой подвал](https://rpgbasement.xyz/) + [паблик](https://vk.com/rpgbasement) + [канал](https://t.me/rpgbasement)
+- [Штормовая Башня](http://stormtower.ru/) + [паблик](https://vk.com/stormtower)
+- [Radaghast Kary](http://radaghast.ru/) + [YouTube](https://www.youtube.com/channel/UCoHHfW54wa4S_LicqRq5s_g/videos) + [инстаграмм](https://www.instagram.com/radaghast.kary/) + [канал](https://t.me/radaghastkary)
 
 ## Eternal Order
 
-- [Багровый Песок — военно-историческая ролевая игра](http://багровыйпесок.рф/) + [паблик ВКонтакте](https://vk.com/red_sands)
+- [Багровый Песок — военно-историческая ролевая игра](http://багровыйпесок.рф/) + [паблик](https://vk.com/red_sands)
 - [Нейтронная ночь](https://vk.com/neutronnight)
 
 ## Ролевое КБ им. Карандаша и Бумаги
@@ -164,7 +158,7 @@
 ## Восточные Земли (OSR)
 
 - [Блог](http://eastern-lands.blogspot.ru/)
-- [Паблик Вконтакте](https://vk.com/easternlands) + [Discord-сервер](https://discord.gg/wBSPRWv)
+- [Паблик](https://vk.com/easternlands) + [Discord-сервер](https://discord.gg/wBSPRWv)
 - [YouTube-канал](https://www.youtube.com/channel/UCm2-SZcvG_YzOWdcUZrI38Q)
 
 ## Locked Room (Сыщик)
@@ -177,7 +171,7 @@
 
 ## Сообщество "Башня мага" (Новосибирск)
 
-- [Паблик ВК](https://vk.com/tower)
+- [Паблик](https://vk.com/tower)
 
 ## Сообщество "No Roleplaying"
 
@@ -185,14 +179,16 @@
 - [Discord server](https://discord.gg/PMsszM9)
 - [Twitch channel](https://www.twitch.tv/noroleplaying)
 - [YouTube channel](https://www.youtube.com/c/NoRP)
-- [Паблик ВК](https://vk.com/noroleplaying)
+- [Паблик](https://vk.com/noroleplaying)
 
 ## Сообщество Adventurers League Russian
+
 - [дискорд-сервер сообщества](https://discord.gg/qSD3mmz)
 - [Список клубов, в которых играют по правилам D&D Adventurers League](https://adventurersleague.wordpress.com/clubs/)
 
 ## Сообщество Вечерние кости
-- [Паблик ВКонтакте](https://vk.com/vecherniyekosti)
+
+- [Паблик](https://vk.com/vecherniyekosti)
 - [Twitch-канал](https://www.twitch.tv/vecherniyekosti), [Youtube-канал](https://www.youtube.com/channel/UCETKVT-Uj-gAqdSTd2YNaMg)
 - [Телеграм-канал](https://t.me/vecherniyekosti), [Дискорд-канал "Костяшки"](https://discord.gg/3cepcNA)
 - [Инстаграм](https://www.instagram.com/vecherniye_kosti/), [Твиттер](https://twitter.com/vecherniyekosti)
