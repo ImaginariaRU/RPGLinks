@@ -82,7 +82,6 @@
 
 ## D&D
 
-- D&D Adventurers League в России : [Паблик](https://vk.com/dnd_league) + [чат](https://t.me/joinchat/DLHhDBJufNYqWJrluObOiw)
 - [D&D and you](https://t.me/dndandyou)
 - [Паблик Dungeons & Dragons](https://vk.com/dnd_group)
 
@@ -181,10 +180,11 @@
 - [YouTube channel](https://www.youtube.com/c/NoRP)
 - [Паблик](https://vk.com/noroleplaying)
 
-## Сообщество Adventurers League Russian
+## Сообщество D&D Adventurers League Russian
 
+- [Паблик](https://vk.com/dnd_league) + [чат](https://t.me/joinchat/DLHhDBJufNYqWJrluObOiw)
 - [дискорд-сервер сообщества](https://discord.gg/qSD3mmz)
-- [Список клубов, в которых играют по правилам D&D Adventurers League](https://adventurersleague.wordpress.com/clubs/)
+- [Список клубов, в которых играют по правилам D&D Adventurers League](http://adventurersleague.ru/clubs/)
 
 ## Сообщество Вечерние кости
 
