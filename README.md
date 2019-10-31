@@ -237,6 +237,7 @@
 - [Старая школа настольных ролевых игр](https://t.me/joinchat/Br3egVIpflGzcg_ABbCovA)
 - [Лаборатория ролевых игр от Студии 101](https://t.me/makerpg)
 
+
 ## Чаты в Skype
 
 - [Skype-чат про GURPS](https://join.skype.com/c1zGftuVJIMa)
@@ -257,8 +258,11 @@
 
 - [«Темные болота»](https://vk.com/dark_swamps) - тяжеленный отечественный *W-хак в разработке
 
-# Инструменты 
+# Инструменты
 
+## Генераторы
+
+- [Генератор подписи из GM Badges](https://toolkit.imaginaria.ru/tools/gmbadges/)
 - [Генератор имён](http://rpg.wintersky.ru/namegen/)
 
 # Архивы
