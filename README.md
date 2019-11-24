@@ -237,6 +237,9 @@
 - [Старая школа настольных ролевых игр](https://t.me/joinchat/Br3egVIpflGzcg_ABbCovA)
 - [Лаборатория ролевых игр от Студии 101](https://t.me/makerpg)
 
+## Сообщества в Discord
+
+- [Imaginaria After Dark](https://discord.gg/mpfXDZa) - В этом Discord-сервере **не** собирается Имкомафия.
 
 ## Чаты в Skype
 
