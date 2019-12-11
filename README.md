@@ -25,6 +25,7 @@
 - [Санкт-Петербург] [DnD в Playloft GaGa](https://vk.com/gagadnd) + [чат в Telegram](https://t.me/gagadnd)
 - [Санкт-Петербург] [Круговорот миров — Dungeons & Dragons](https://vk.com/dndworlds)
 - [Санкт-Петербург] [Чёрный Лес — Место приключений](https://vk.com/blackforrest)
+- [Санкт-Петербург] [Общество друзей Мюнхгаузена](https://vk.com/karlmunchausen)
 - [Томск] [Role & Roll](https://vk.com/roleandroll)
 - [Ярославль] [Настольные Ролевые Игры](https://vk.com/nri_yaroslavl)
 - [Ярославль] [Dungeons & Dragons в Ярославле](https://vk.com/dnd_yaroslavl)
@@ -71,7 +72,7 @@
 
 ## Silver Hoof Games
 
-- [Сообщество авторов настольных ролевых игр Silver Hoof Games]https://vk.com/silverhoofgames
+- [Сообщество авторов настольных ролевых игр Silver Hoof Games](https://vk.com/silverhoofgames)
 
 # Тематические ресурсы
 
