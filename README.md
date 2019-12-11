@@ -71,6 +71,7 @@
 - [Интернет-магазин Студии](https://studio101.ru/)
 - [Форум "Общество друзей Мюнхгаузена"](https://karlmunchausen.ru/)
 - [Паблик](https://vk.com/studio101), [Паблик в фейсбуке](https://www.facebook.com/studio101ru/)
+- [Канал в Discord](https://discord.gg/F4kYfReg)
 
 ## SaF Gang Design
 
@@ -104,6 +105,7 @@
 - [База ходов для Dungeon World](https://trello.com/b/q4Sn5baR)
 
 ## Savage World 
+
 - [Чат: Savage Worlds/Дневник авантюриста](https://t.me/savageworlds)
 
 ## Кориолис: Третий Горизонт
@@ -127,6 +129,14 @@
 - [Официальный чат](https://t.me/whfrp4ru)
 - [Страница игры](https://warhammer.me)
 - [Официальный форум локализации](https://karlmunchausen.ru/viewforum.php?f=43)
+
+## Tales from the Loop & Things from the Flood
+
+- [Телеграм-чат для фанатов](https://t.me/TalesfromtheLoop)
+
+## Зов Аркхема и Побег из неведомого Кадата
+
+- [Сообщество для обсуждения игр на основе правил Кадат](https://vk.com/kadath_rpg)
 
 # Standalone-ресурсы
 
@@ -160,11 +170,11 @@
 - [Паблик](https://vk.com/easternlands) + [Discord-сервер](https://discord.gg/wBSPRWv)
 - [YouTube-канал](https://www.youtube.com/channel/UCm2-SZcvG_YzOWdcUZrI38Q)
 
-## Locked Room (Сыщик)
+## Запертая комната (Детективные ролевые игры)
 
-- [Запертая комната](https://vk.com/lockedroom_rpg) 
-- [Сайт](http://lockedroom.ru/)
-- Телеграм-канал [Детективные ролевые игры](https://t.me/lockedroom)
+- [Блог](http://lockedroom.ru/)
+- [Паблик](https://vk.com/lockedroom_rpg) 
+- [Телеграм-канал](https://t.me/lockedroom)
 
 # Сообщества
 
