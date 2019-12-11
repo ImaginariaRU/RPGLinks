@@ -6,19 +6,15 @@
 
 ## Игротеки, клубы и конвенты в регионах
 
-- [Екатеринбург] [QB](https://vk.com/qb_club)
-- [Екатеринбург] [Игровая таверна "Хитрый Сычик"](https://vk.com/gametavern)
-- [Екатеринбург] [Ночь Темна (18+)](http://vk.com/proryv63)
+- [Екатеринбург] [Клуб QB](https://vk.com/qb_club)
+- [Екатеринбург] [Игровая таверна «Хитрый Сычик»](https://vk.com/gametavern)
 - [Екатеринбург] [Настольные ролевые игры в Екб (и окрестностях)](https://vk.com/pnprpg)
-- [Екатеринбург] [Регулярные НРИ в Екатеринбурге](https://vk.com/nri_ecb)
-- [Екатеринбург] [Ролевой "Глобус"](https://vk.com/rpgglobuz)
 - [Екатеринбург] [Ролекториум](http://vk.com/rolectorium_ekb)
-- [Екатеринбург] [РРИкон](http://vk.com/rricon)
-- [Екатеринбург] [Таверна Игр-ек Екатеринбург](https://vk.com/taverna_y)
+- [Екатеринбург] [Играем в Уральское!](https://vk.com/uralplaytest)
 - [Казань] [ROLLIN НРИ КАЗАНЬ](https://vk.com/rollin_die) + [канал](https://t.me/rollin_die)
 - [Калуга] [Ролевая игротека](https://vk.com/elysium40rpg)
 - [Королёв] [Спящая Мантикора](https://vk.com/sleepingmanticora)
-- [Красноярск] [Настольные ролевые игры - ХЦ «Дайсвилль»](https://vk.com/dicevilleplay)
+- [Красноярск] [Настольные ролевые игры — ХЦ «Дайсвилль»](https://vk.com/dicevilleplay)
 - [Нижний Новгород] [20Граней Настольные игры D&D MtG](https://vk.com/20graney)
 - [Новосибирск] [Башня мага](https://vk.com/wizardstower)
 - [Омск] [Подземелье и дракон — настольные игры в Омске](https://vk.com/podzemelyedrakon)
@@ -27,37 +23,33 @@
 - [Самара] [Прорыв](http://vk.com/proryv63)
 - [Саратов] [НРИ Саратов](https://vk.com/nri_sar)
 - [Санкт-Петербург] [DnD в Playloft GaGa](https://vk.com/gagadnd) + [чат в Telegram](https://t.me/gagadnd)
-- [Санкт-Петербург] [Круговорот миров - Dungeons & Dragons](https://vk.com/dndworlds)
-- [Санкт-Петербург] [Чёрный Лес - Место приключений](https://vk.com/blackforrest)
+- [Санкт-Петербург] [Круговорот миров — Dungeons & Dragons](https://vk.com/dndworlds)
+- [Санкт-Петербург] [Чёрный Лес — Место приключений](https://vk.com/blackforrest)
 - [Томск] [Role & Roll](https://vk.com/roleandroll)
 - [Ярославль] [Настольные Ролевые Игры](https://vk.com/nri_yaroslavl)
 - [Ярославль] [Dungeons & Dragons в Ярославле](https://vk.com/dnd_yaroslavl)
 - [Ярославль] [ИГРИК: Клуб и Магазин настольных игр](https://vk.com/y_yar)
-- [Ярославль] [Клуб НРИ "МИФ"](https://vk.com/club_nri)
+- [Ярославль] [Клуб НРИ «МИФ»](https://vk.com/club_nri)
 
 ## Ролекон
 
-- [Сайт конвента и клуба "Локация"](http://rolecon.ru/)
+- [Сайт конвента и клуба «Локация»](http://rolecon.ru/)
 - [Паблик ВКонтакте](https://vk.com/rolecon)
-- [Паблик клуба "Локация";](https://vk.com/rolecon_location)
-- [Чат клуба "Локация"](http://telegram.me/locationclub)
+- [Паблик клуба «Локация»](https://vk.com/rolecon_location)
+- [Чат клуба «Локация»](http://telegram.me/locationclub)
 - [Фан-чат](http://telegram.me/rolecon)
 - [Драконоборец — новостной канал Ролекон-Фанчата](https://t.me/drachenschlager)
 
-# Новостные сайты
-
-- [Тесера: Портал в мир приключений](https://tesera.ru/project/635420/)
-
 ## RPG News Russian
 
-- [Сайт "Дракончика"](http://rpg-news.ru/)
-- [Паблик](https://vk.com/rpg_news_russian)
+- [Сайт «Дракончика»](http://rpg-news.ru/)
+- [Паблик ВКонтакте](https://vk.com/rpg_news_russian)
 
 # Форумы, вики и крупные проекты
 
-- [Ролевая социальная сеть "Имажинария"](https://imaginaria.ru/)
+- [Ролевая социальная сеть «Имажинария»](https://imaginaria.ru/)
 - [Ролевикипедия](http://rpg.fandom.com/ru/)
-- [Форум "Мир ролевых игр"](https://rpg-world.org/index.php?action=forum)
+- [Форум «Мир ролевых игр»](https://rpg-world.org/index.php?action=forum)
 
 # Издательства
 
@@ -69,13 +61,17 @@
 ## Studio 101
 
 - [Интернет-магазин Студии](https://studio101.ru/)
-- [Форум "Общество друзей Мюнхгаузена"](https://karlmunchausen.ru/)
+- [Форум «Общество друзей Мюнхгаузена»](https://karlmunchausen.ru/)
 - [Паблик](https://vk.com/studio101), [Паблик в фейсбуке](https://www.facebook.com/studio101ru/)
 - [Канал в Discord](https://discord.gg/F4kYfReg)
 
 ## SaF Gang Design
 
 - [SaF Gang Design](https://vk.com/safgang)
+
+## Silver Hoof Games
+
+- [Сообщество авторов настольных ролевых игр Silver Hoof Games]https://vk.com/silverhoofgames
 
 # Тематические ресурсы
 
@@ -104,9 +100,9 @@
 
 - [База ходов для Dungeon World](https://trello.com/b/q4Sn5baR)
 
-## Savage World 
+## Savage World — Дневник авантюриста
 
-- [Чат: Savage Worlds/Дневник авантюриста](https://t.me/savageworlds)
+- [Телеграм-чат](https://t.me/savageworlds)
 
 ## Кориолис: Третий Горизонт
 
@@ -120,9 +116,11 @@
 - [Группа для фанатов и любителей GURPS (Generic Universal RolePlaying System)](https://t.me/gurps_fangroup)
 - [Паблик GURPS](https://vk.com/gurpsvk)
 
-## Blades in the Dark - Клинки во тьме
+## Blades in the Dark — Клинки во тьме
 
-- [Чат](https://t.me/bitd_ru), [Группа в ВК](https://vk.com/blade_in_the_darkness), [Doskvol News (twitter)][https://twitter.com/doskvolnews]
+- [Телеграм-чат](https://t.me/bitd_ru)
+- [Группа в ВК](https://vk.com/blade_in_the_darkness)
+- [Doskvol News twitter][https://twitter.com/doskvolnews]
 
 ## Warhammer Fantasy RolePlay
 
@@ -156,7 +154,7 @@
 - [Канал на YouTube](http://youtube.com/pnprpg);
 - [Ru.DungeonMaps](http://rudungeonmaps.tumblr.com/)
 
-## DSAmania | Блог об игре "Тёмное Око" 
+## DSAmania | Блог об игре «Тёмное Око» 
 
 Проект Натальи Мельниковой по немецкой системе DSA (Das Schwarze Auge)
 
@@ -178,11 +176,11 @@
 
 # Сообщества
 
-## Сообщество "Башня мага" (Новосибирск)
+## Сообщество «Башня мага» (Новосибирск)
 
 - [Паблик](https://vk.com/tower)
 
-## Сообщество "No Roleplaying"
+## Сообщество «No Roleplaying»
 
 - [Telegram chat](https://t.me/noroleplaying)
 - [Discord server](https://discord.gg/PMsszM9)
@@ -200,7 +198,7 @@
 
 - [Паблик](https://vk.com/vecherniyekosti)
 - [Twitch-канал](https://www.twitch.tv/vecherniyekosti), [Youtube-канал](https://www.youtube.com/channel/UCETKVT-Uj-gAqdSTd2YNaMg)
-- [Телеграм-канал](https://t.me/vecherniyekosti), [Дискорд-канал "Костяшки"](https://discord.gg/3cepcNA)
+- [Телеграм-канал](https://t.me/vecherniyekosti), [Дискорд-канал «Костяшки»](https://discord.gg/3cepcNA)
 - [Инстаграм](https://www.instagram.com/vecherniye_kosti/), [Твиттер](https://twitter.com/vecherniyekosti)
 
 # Паблики ВК, чаты, каналы, Youtube и прочее
@@ -213,16 +211,16 @@
 - [Music for R.P.G.](https://vk.com/public85132919).
 - [Ворнхеймский синдром](https://vk.com/osr_syndrome)
 - [Настольные ролевые игры](https://vk.com/tabletop_rpg) + [Ссылки на книги, выложенные в группе](https://vk.com/wall-4361272_3099) 
-- [Приют - Специально организованные правополушарные коммуникативные игры](https://vk.com/rpgasylum)
+- [Приют — Специально организованные правополушарные коммуникативные игры](https://vk.com/rpgasylum)
 - [Страницы отвращения](https://vk.com/club69115050)
 - [Хроники героев](https://vk.com/heros_chr) + [канал в Telergam](https://t.me/snarl5)
 - [Чердак d4](https://t.me/d4loft)
 
 ### Санкт-Петербург
 
-- [Настольные игры - СПБ - Старая Деревня](https://vk.com/hgstar)
-- Единорог - Настольные игры (СПб) - [интернет-магазин](https://edinorog.org/) + [паблик ВК](https://vk.com/edinorog_spb)
-- [Точка наблюдения](https://vk.com/point_of_observation) - паблик ArtiVol 
+- [Настольные игры — СПБ — Старая Деревня](https://vk.com/hgstar)
+- Единорог — Настольные игры (СПб) — [интернет-магазин](https://edinorog.org/) + [паблик ВК](https://vk.com/edinorog_spb)
+- [Точка наблюдения](https://vk.com/point_of_observation) — паблик ArtiVol 
 
 ## Youtube-каналы о НРИ
 
@@ -239,8 +237,8 @@
 - [Новости как сюжеты для НРИ](https://t.me/plothook)
 - [Чердак D4](https://t.me/d4loft)
 - [Sn@rl5, Отчеты об играх, ролевые новости, безумные идеи](https://t.me/snarl5)  
-- [Ролевые лулзы](https://t.me/roleplayloolz) - Смешные картинки, мемы, музыка и прочие материалы на тему Настольных Ролевых Игр (НРИ);
-- [Кидай двадцатку](https://t.me/d6d20) - Заметки про словесные ролевые игры (они же настолки, они же словески, они же НРИ, DnD и иже) и ролевиков. 
+- [Ролевые лулзы](https://t.me/roleplayloolz) — Смешные картинки, мемы, музыка и прочие материалы на тему Настольных Ролевых Игр (НРИ);
+- [Кидай двадцатку](https://t.me/d6d20) — Заметки про словесные ролевые игры (они же настолки, они же словески, они же НРИ, DnD и иже) и ролевиков. 
 
 ## Чаты в Telegram
 
@@ -249,7 +247,7 @@
 
 ## Сообщества в Discord
 
-- [Imaginaria After Dark](https://discord.gg/mpfXDZa) - В этом Discord-сервере **не** собирается Имкомафия.
+- [Imaginaria After Dark](https://discord.gg/mpfXDZa) — В этом Discord-сервере **не** собирается Имкомафия.
 
 ## Чаты в Skype
 
@@ -257,11 +255,11 @@
 
 # Авторские сеттинги
 
-- [Domus et Animae (DeA) -- Нудмер: город-ключ](https://vk.com/domusetanimae)
+- [Domus et Animae (DeA) — Нудмер: город-ключ](https://vk.com/domusetanimae)
 - [Алая Буря](https://vk.com/scarlet_storm)
 - [Город Парового Солнца](https://vk.com/steamsun)
 - [Карнавал в мире снов](https://vk.com/dreamscapecarnival)
-- ["Лавикандия", "Порох и хлеб", "Марс:Новый Воздух"](http://lavikandia.ru/) 
+- [«Лавикандия», «Порох и хлеб», «Марс:Новый Воздух»](http://lavikandia.ru/) 
 - [Мёртвый Урал](https://www.patreon.com/deadurals_rpg) + [паблик ВК](https://vk.com/deadurals_rpg)
 - [Питер во мгле](https://karlmunchausen.ru/viewtopic.php?p=2432) + [интерактивная карта](https://www.google.com/maps/d/u/0/edit?mid=1ckEil_1akoDk7jT5F56nhAOgnudRfUxs&ll=59.957227652605965%2C30.324053899750652&z=11)
 - [Потайные Перекрёстки](https://vk.com/club130540029)
@@ -269,7 +267,7 @@
 
 # Хаки/переделки официальных сеттингов
 
-- [«Темные болота»](https://vk.com/dark_swamps) - тяжеленный отечественный *W-хак в разработке
+- [«Темные болота»](https://vk.com/dark_swamps) — тяжеленный отечественный *W-хак в разработке
 
 # Инструменты
 
@@ -280,15 +278,15 @@
 
 # Архивы
 
-- [RPG Awards](http://rpg-awards.ru/contest/index.html) - Сайт о ролевых конкурсах (в т.ч. Кашевар)
+- [RPG Awards](http://rpg-awards.ru/contest/index.html) — Сайт о ролевых конкурсах (в т.ч. Кашевар)
 - [Архивы кашевара на сайте Студии 101](https://studio101.ru/archive/rpg-kashevar/), [Они же, в вомбачьем архиве](http://trpg.storage.wintersky.me/Studio_101_Archives/rpg-kashevar/)
-- [Вомбачьи архивы](http://trpg.storage.wintersky.me/) - в том числе спасенное с RPOD
+- [Вомбачьи архивы](http://trpg.storage.wintersky.me/) — в том числе спасенное с RPOD
 
 # Прочие ресурсы
 
 Прочие ресурсы, к НРИ, возможно, отношения не имеющие, но для мастера — полезные
 
-- [posmotre.li](https://posmotre.li/) - Энциклопедия вымышленных миров, неординарных персонажей и всего, что с этим связано
+- [posmotre.li](https://posmotre.li/) — Энциклопедия вымышленных миров, неординарных персонажей и всего, что с этим связано
 
 <hr>
 
