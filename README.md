@@ -217,6 +217,7 @@
 - [Страницы отвращения](https://vk.com/club69115050)
 - [Хроники героев](https://vk.com/heros_chr) + [канал в Telergam](https://t.me/snarl5)
 - [Чердак d4](https://t.me/d4loft)
+- [qdrn: Японские НРИ](https://vk.com/qdrn_trpg)
 
 ### Санкт-Петербург
 
