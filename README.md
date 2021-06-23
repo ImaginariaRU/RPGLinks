@@ -23,7 +23,7 @@
 - [Самара] [Клуб Логово](https://vk.com/logovo_samara)
 - [Самара] [Прорыв](http://vk.com/proryv63)
 - [Саратов] [НРИ Саратов](https://vk.com/nri_sar)
-- [Санкт-Петербург] [DnD в Playloft GaGa](https://vk.com/gagadnd) + [чат в Telegram](https://t.me/gagadnd)
+- [Санкт-Петербург] [Клуб Day20 в Плейлофте GaGa](https://vk.com/day20rpg) + [чат в Telegram](https://t.me/day20rpg)
 - [Санкт-Петербург] [Круговорот миров — Dungeons & Dragons](https://vk.com/dndworlds)
 - [Санкт-Петербург] [Чёрный Лес — Место приключений](https://vk.com/blackforrest)
 - [Санкт-Петербург] [Общество друзей Мюнхгаузена](https://vk.com/karlmunchausen)
