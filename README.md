@@ -176,6 +176,12 @@
 - [Паблик](https://vk.com/lockedroom_rpg) 
 - [Телеграм-канал](https://t.me/lockedroom)
 
+## Long Story Short
+
+- [Сайт](https://longstoryshort.app/)
+- [Паблик ВК](https://vk.com/longstoryshortapp) 
+- [Телеграм-канал](https://t.me/LongStoryShortApp)
+
 # Сообщества
 
 ## Сообщество «Башня мага» (Новосибирск)
