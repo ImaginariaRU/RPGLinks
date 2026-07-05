@@ -144,6 +144,8 @@
 - [Ролевой подвал](https://rpgbasement.xyz/) + [паблик](https://vk.com/rpgbasement) + [канал](https://t.me/rpgbasement)
 - [Штормовая Башня](http://stormtower.ru/) + [паблик](https://vk.com/stormtower)
 - [Radaghast Kary](http://radaghast.ru/) + [YouTube](https://www.youtube.com/channel/UCoHHfW54wa4S_LicqRq5s_g/videos) + [инстаграмм](https://www.instagram.com/radaghast.kary/) + [канал](https://t.me/radaghastkary)
+- [OmnisGM Rules](https://rules.omnisgm.com) — быстрый статический ридер открытых SRD (D&D 5.2.1/5.1, Daggerheart, BRP) с полным русским переводом всех документов; исходники в Markdown открыты
+- [OmnisGM](https://omnisgm.com/ru) — бесплатные realtime-листы персонажа D&D 2024 для очной игры: листы у игроков в телефонах, мастер видит изменения живьём; PWA, работает офлайн
 
 ## Eternal Order
 
